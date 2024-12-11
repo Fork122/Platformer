@@ -6,7 +6,7 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Chicken_Attack_Anim
+  m_Name: Fox_Die_Anim
   serializedVersion: 7
   m_Legacy: 0
   m_Compressed: 0
@@ -31,7 +31,7 @@ AnimationClip:
         inWeight: 0
         outWeight: 0
       - serializedVersion: 3
-        time: 0.59999996
+        time: 0.7833333
         value: 0
         inSlope: Infinity
         outSlope: Infinity
@@ -51,17 +51,15 @@ AnimationClip:
   - serializedVersion: 2
     curve:
     - time: 0
-      value: {fileID: -1769577615, guid: 608a803ee53ed8f429a849444733d088, type: 3}
-    - time: 0.11666667
-      value: {fileID: 1310807854, guid: 608a803ee53ed8f429a849444733d088, type: 3}
-    - time: 0.23333333
-      value: {fileID: 824419427, guid: 608a803ee53ed8f429a849444733d088, type: 3}
-    - time: 0.35
-      value: {fileID: 278609861, guid: 608a803ee53ed8f429a849444733d088, type: 3}
-    - time: 0.46666667
-      value: {fileID: -1860929719, guid: 608a803ee53ed8f429a849444733d088, type: 3}
-    - time: 0.5833333
-      value: {fileID: -1769577615, guid: 608a803ee53ed8f429a849444733d088, type: 3}
+      value: {fileID: 1625912796, guid: da1e1925ca5bb084eb7bf8d22890816e, type: 3}
+    - time: 0.2
+      value: {fileID: -1599790458, guid: da1e1925ca5bb084eb7bf8d22890816e, type: 3}
+    - time: 0.38333333
+      value: {fileID: 1017723954, guid: da1e1925ca5bb084eb7bf8d22890816e, type: 3}
+    - time: 0.56666666
+      value: {fileID: -891064484, guid: da1e1925ca5bb084eb7bf8d22890816e, type: 3}
+    - time: 0.76666665
+      value: {fileID: 195486464, guid: da1e1925ca5bb084eb7bf8d22890816e, type: 3}
     attribute: m_Sprite
     path: 
     classID: 212
@@ -93,18 +91,17 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     pptrCurveMapping:
-    - {fileID: -1769577615, guid: 608a803ee53ed8f429a849444733d088, type: 3}
-    - {fileID: 1310807854, guid: 608a803ee53ed8f429a849444733d088, type: 3}
-    - {fileID: 824419427, guid: 608a803ee53ed8f429a849444733d088, type: 3}
-    - {fileID: 278609861, guid: 608a803ee53ed8f429a849444733d088, type: 3}
-    - {fileID: -1860929719, guid: 608a803ee53ed8f429a849444733d088, type: 3}
-    - {fileID: -1769577615, guid: 608a803ee53ed8f429a849444733d088, type: 3}
+    - {fileID: 1625912796, guid: da1e1925ca5bb084eb7bf8d22890816e, type: 3}
+    - {fileID: -1599790458, guid: da1e1925ca5bb084eb7bf8d22890816e, type: 3}
+    - {fileID: 1017723954, guid: da1e1925ca5bb084eb7bf8d22890816e, type: 3}
+    - {fileID: -891064484, guid: da1e1925ca5bb084eb7bf8d22890816e, type: 3}
+    - {fileID: 195486464, guid: da1e1925ca5bb084eb7bf8d22890816e, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
-    m_StopTime: 0.59999996
+    m_StopTime: 0.7833333
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0
@@ -134,7 +131,7 @@ AnimationClip:
         inWeight: 0
         outWeight: 0
       - serializedVersion: 3
-        time: 0.59999996
+        time: 0.7833333
         value: 0
         inSlope: Infinity
         outSlope: Infinity
