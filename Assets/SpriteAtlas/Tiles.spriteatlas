@@ -93,7 +93,11 @@ SpriteAtlas:
     - 9e5bac4777e59db4c80a998172c53472: 4055577607036525942
     - 53340067bc9823546ad8b40a09e8208a: 21300000
     - 53d7bf08f2e3c0d4184830d4f3de36cd: 21300000
-    - 2f3b7558aec0d4d4d8b80430f08a6c04: 21300000
+    - 2f3b7558aec0d4d4d8b80430f08a6c04: -1941479440
+    - 2f3b7558aec0d4d4d8b80430f08a6c04: 706019882
+    - 2f3b7558aec0d4d4d8b80430f08a6c04: -349468801
+    - 2f3b7558aec0d4d4d8b80430f08a6c04: -841527956
+    - 2f3b7558aec0d4d4d8b80430f08a6c04: -1320183727
     - 0d8f58782d49d3542a7e5b7879c70a3f: 21300000
     - aefc3cc8a1d006e48b02905b498c30e5: 21300000
     - 7205ad398d0ea7549a0eb20e2e84b7bc: 21300000
@@ -369,7 +373,11 @@ SpriteAtlas:
   - {fileID: 4055577607036525942, guid: 9e5bac4777e59db4c80a998172c53472, type: 3}
   - {fileID: 21300000, guid: 53340067bc9823546ad8b40a09e8208a, type: 3}
   - {fileID: 21300000, guid: 53d7bf08f2e3c0d4184830d4f3de36cd, type: 3}
-  - {fileID: 21300000, guid: 2f3b7558aec0d4d4d8b80430f08a6c04, type: 3}
+  - {fileID: -1941479440, guid: 2f3b7558aec0d4d4d8b80430f08a6c04, type: 3}
+  - {fileID: 706019882, guid: 2f3b7558aec0d4d4d8b80430f08a6c04, type: 3}
+  - {fileID: -349468801, guid: 2f3b7558aec0d4d4d8b80430f08a6c04, type: 3}
+  - {fileID: -841527956, guid: 2f3b7558aec0d4d4d8b80430f08a6c04, type: 3}
+  - {fileID: -1320183727, guid: 2f3b7558aec0d4d4d8b80430f08a6c04, type: 3}
   - {fileID: 21300000, guid: 0d8f58782d49d3542a7e5b7879c70a3f, type: 3}
   - {fileID: 21300000, guid: aefc3cc8a1d006e48b02905b498c30e5, type: 3}
   - {fileID: 21300000, guid: 7205ad398d0ea7549a0eb20e2e84b7bc, type: 3}
@@ -644,7 +652,11 @@ SpriteAtlas:
   - FlyingSlimeIdle_2
   - ChickenFly-Sheet
   - ChickenSleeping
-  - ChickenIdle-Sheet
+  - ChickenIdle-Sheet_1
+  - ChickenIdle-Sheet_0
+  - ChickenIdle-Sheet_3
+  - ChickenIdle-Sheet_2
+  - ChickenIdle-Sheet_4
   - Rat_Idle
   - ChickenWalking
   - MiniBear [WildWest]
