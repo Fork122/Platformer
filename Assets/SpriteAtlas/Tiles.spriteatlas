@@ -194,6 +194,7 @@ SpriteAtlas:
     - f99a3879764308a4d92d87d841829522: -7336076203705889676
     - f99a3879764308a4d92d87d841829522: -4344611882063969491
     - f99a3879764308a4d92d87d841829522: -5241486731584646207
+    - de2294d93bd5a86438701ad7cc6c234a: 21300000
     - e2d3afd9a56c475419bcfb63383b2135: 21300000
     - c7cf1ee919a46bd4985d838f163b06b0: 21300000
     - 153fef1aadc30f343bfa41116cdf6c82: 21300000
@@ -474,6 +475,7 @@ SpriteAtlas:
   - {fileID: -7336076203705889676, guid: f99a3879764308a4d92d87d841829522, type: 3}
   - {fileID: -4344611882063969491, guid: f99a3879764308a4d92d87d841829522, type: 3}
   - {fileID: -5241486731584646207, guid: f99a3879764308a4d92d87d841829522, type: 3}
+  - {fileID: 21300000, guid: de2294d93bd5a86438701ad7cc6c234a, type: 3}
   - {fileID: 21300000, guid: e2d3afd9a56c475419bcfb63383b2135, type: 3}
   - {fileID: 21300000, guid: c7cf1ee919a46bd4985d838f163b06b0, type: 3}
   - {fileID: 21300000, guid: 153fef1aadc30f343bfa41116cdf6c82, type: 3}
@@ -753,6 +755,7 @@ SpriteAtlas:
   - cavesofgallet_tiles_72
   - cavesofgallet_tiles_8
   - cavesofgallet_tiles_9
+  - Checkpoint
   - Rat_Full
   - Rat_Run
   - Rat_Attack_FX
